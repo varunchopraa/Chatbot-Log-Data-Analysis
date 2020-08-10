@@ -10,3 +10,5 @@ This repo consists of the scripts used in the analysis of chatbot log data for m
 The analysis and segregation were done using Pandas along with Elasticsearch, Kibana and Excelastic for indexing CSV files.
 
 The repo also contains _app.py_ which is responsible for starting the visualisation dashboard for the results of the analysis on localhost. The dashboard has been developed using Plotly's Dash framework.
+
+The dashboard can also be visited at <http://chatbotanalysis.herokuapp.com>.
